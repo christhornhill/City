@@ -1,0 +1,6 @@
+[report]
+include =
+    src/aptean/*
+omit =
+    */test*
+    */upgrades/*
